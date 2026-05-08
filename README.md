@@ -1,5 +1,5 @@
 # Flight-Management-System
-Created a web application that is able to allow a user to search and reserve flights. Microservices and SQLs were implemented throughout the entire project. 
+Created a web application that is able to allow a user to search and reserve flights. Microservices, N-layered Architecture and SQLs were implemented throughout the entire project. 
 
 **Project Link:** http://35.203.95.216/FMSFrontend/login
 
